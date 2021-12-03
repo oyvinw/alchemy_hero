@@ -16,3 +16,5 @@ Young Alchemist!
 Will you be able to mix the right potion for your quest?
 
 Only a true POTION HERO can succeed in this narrative puzzle game!
+
+[PLAY IT HERE](https://djanque.itch.io/potion-hero)
