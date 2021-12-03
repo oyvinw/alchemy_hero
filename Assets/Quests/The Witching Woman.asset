@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30b51e9602433bd4cac892f0a50916bf, type: 3}
+  m_Name: The Witching Woman
+  m_EditorClassIdentifier: 
+  questTitle: The Witching Woman
+  questText: Young Alchemist! I bid thee to concoct a potion for the admirable Gwendolyn
+    Windlesham. Known as The Witching Woman, Gwednolyn is renowned amongst peasants
+    and nobles alike - there is no tincture or medicine she cannot create. However,
+    as her age increases, her <color=#FF6800>dexterity</color> and <color=#FF6800>intelligence</color>
+    begin to fade. She requests a reviving potion to assist in her daily duties.
+    Do not tarry!
+  questGiver: Gwendolyn Windlesham
+  targetStat:
+    toxic: 0
+    energy: 0
+    strength: 0
+    invisibility: 0
+    invincibility: 0
+    ferocity: 0
+    respiratory: 0
+    hallucinogenic: 0
+    flavour: 0
+    aphrodisiac: 0
+    charisma: 0
+    dexterity: -20
+    stamina: 0
+    mentalFortitude: 0
+    intelligence: -20
+    color: {r: 0, g: 0, b: 0, a: 0}

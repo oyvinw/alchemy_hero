@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Scenery
+    uniqueID: 3492672807
+    locked: 0
+  - name: Scene objects
+    uniqueID: 2622907329
+    locked: 0
+  - name: Interactables
+    uniqueID: 2262253867
+    locked: 0
+  - name: Effects
+    uniqueID: 748488205
+    locked: 0
+  - name: Report Card
+    uniqueID: 3584564747
+    locked: 0
+  - name: Outside
+    uniqueID: 793628129
+    locked: 0
+  - name: Background
+    uniqueID: 629536947
+    locked: 0
+  - name: DragDrop
+    uniqueID: 2202462167
+    locked: 0

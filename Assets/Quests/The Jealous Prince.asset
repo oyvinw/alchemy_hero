@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30b51e9602433bd4cac892f0a50916bf, type: 3}
+  m_Name: The Jealous Prince
+  m_EditorClassIdentifier: 
+  questTitle: The Jealous Prince
+  questText: Hark! We have received word from The Prince himself! Feeling inadequate
+    and overlooked in the face of his betrothed, Prince Tarquin wishes to... enhance...
+    his outward appearance. His royal highness must be at his healthiest, with shining
+    locks and rosy cheeks. Attractiveness and <color=#FF6800>charisma</color> is
+    key! This shall ensure that the eyes of the princess never stray. The kingdom
+    depends upon it!
+  questGiver: Prince Tarquin
+  targetStat:
+    toxic: 0
+    energy: 0
+    strength: 0
+    invisibility: 0
+    invincibility: 0
+    ferocity: 0
+    respiratory: 0
+    hallucinogenic: 0
+    flavour: 0
+    aphrodisiac: 0
+    charisma: -20
+    dexterity: 0
+    stamina: 0
+    mentalFortitude: 0
+    intelligence: 0
+    color: {r: 0, g: 0, b: 0, a: 0}
