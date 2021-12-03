@@ -1,4 +1,4 @@
-# alchemy_hero
+# Potion Hero: Alchemist after dark
 Game made for Ludum Dare 49
 
 [Ludum Dare Submission](https://ldjam.com/events/ludum-dare/49/potion-hero-alchemist-after-dark)
